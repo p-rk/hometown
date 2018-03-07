@@ -34,5 +34,9 @@
   {
     "id" : 9,
     "name": "Guwahati"
+  },
+  {
+    "id" : 10,
+    "name": "Test City"
   }
 ]

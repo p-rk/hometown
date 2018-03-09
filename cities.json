@@ -1,38 +1,27 @@
 [
-  {
-    "id" : 1,
-    "name": "Mumbai"
-  },
-  {
-    "id" : 2,
-    "name": "Ahmedabad"
-  },
-  {
-    "id" : 3,
-    "name": "Bangalore"
-  },
-  {
-    "id" : 4,
-    "name": "Pune"
-  },
-  {
-    "id" : 5,
-    "name": "Kolkata"
-  },
-  {
-    "id" : 6,
-    "name": "Hyderabad"
-  },
-  {
-    "id" : 7,
-    "name": "NCR"
-  },
-  {
-    "id" : 8,
-    "name": "Lucknow"
-  },
-  {
-    "id" : 9,
-    "name": "Guwahati"
-  }
+  { "id": 1, "city" : "Ahmedabad"},
+  { "id": 2, "city" : "Asansol"},
+  { "id": 3, "city" : "Bangalore"},
+  { "id": 4, "city" : "Ghaziabad"},
+  { "id": 5, "city" : "Ncr-gurgaon"},
+  { "id": 6, "city" : "Hyderabad"},
+  { "id": 7, "city" : "Kochi"},
+  { "id": 8, "city" : "Kolkata"},
+  { "id": 9, "city" : "Lucknow"},
+  { "id": 10, "city" : "Mumbai"},
+  { "id": 11, "city" : "Mysore"},
+  { "id": 12, "city" : "Nagpur"},
+  { "id": 13, "city" : "New delhi"},
+  { "id": 14, "city" : "Noida"},
+  { "id": 15, "city" : "Pune"},
+  { "id": 16, "city" : "Raipur"},
+  { "id": 17, "city" : "Ranchi"},
+  { "id": 18, "city" : "Siliguri"},
+  { "id": 19, "city" : "Thane"},
+  { "id": 20, "city" : "Mira-bhayandar"},
+  { "id": 21, "city" : "Vadodara"},
+  { "id": 22, "city" : "Vasai"},
+  { "id": 23, "city" : "Vashi"},
+  { "id": 24, "city" : "Virar"},
+  { "id": 25, "city" : "Vishakapatnam"}
 ]
